@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduMatch | College & Scholarship Recommendation</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- NAVIGATION -->
+<header class="navbar">
+    <div class="nav-container">
+        <a href="#home" class="logo">Edu<span>Match</span></a>
+        <nav class="nav-links" id="navLinks">
+            <a href="#home">Home</a>
+            <a href="#how-it-works">How it works</a>
+            <a href="#about">About</a>
+            <a href="#profile" class="nav-button">Get Started</a>
+        </nav>
+        <button class="menu-button" id="menuButton">☰</button>
+    </div>
+</header>
+
+<main>
+
+<!-- HOME -->
+<section class="hero" id="home">
+    <div class="hero-container">
+        <div class="hero-content">
+            <div class="eyebrow">COLLEGE & SCHOLARSHIP RECOMMENDATIONS</div>
+            <h1>Find the right path after senior high.</h1>
+            <p>EduMatch helps Grade 12 students of Notre Dame of Parang, Inc. explore college programs, schools, and scholarship opportunities based on their academic profile and preferences.</p>
+            <div class="hero-buttons">
+                <a href="#profile" class="primary-button">Start My Recommendation</a>
+                <a href="#how-it-works" class="secondary-button">How it works</a>
+            </div>
+        </div>
+
+        <div class="hero-preview">
+            <div class="preview-header"><span>EduMatch</span><span class="status">● Ready</span></div>
+            <div class="preview-profile">
+                <div class="profile-icon">👤</div>
+                <div><strong>Student Profile</strong><p>Personalized recommendations</p></div>
+            </div>
+            <div class="preview-card">
+                <div class="preview-label">TOP MATCH</div>
+                <h3>Recommended College</h3>
+                <p>Based on your academic profile, preferred course, and location.</p>
+                <div class="preview-tags"><span>College</span><span>Program</span><span>Scholarship</span></div>
+            </div>
+            <div class="preview-card small">
+                <div class="preview-label">SCHOLARSHIP</div>
+                <h3>Available Opportunities</h3>
+                <p>View eligibility, requirements, benefits, and application dates.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="section light-section" id="how-it-works">
+    <div class="section-heading">
+        <div class="eyebrow">HOW IT WORKS</div>
+        <h2>Three simple steps to get started.</h2>
+        <p>Provide your information and preferences, then let EduMatch organize suitable options for you.</p>
+    </div>
+    <div class="steps">
+        <div class="step-card">
+            <div class="step-number">01</div>
+            <h3>Create your profile</h3>
+            <p>Enter your basic academic information and preferred course.</p>
+        </div>
+        <div class="step-card">
+            <div class="step-number">02</div>
+            <h3>Set your preferences</h3>
+            <p>Choose your interests, location, and preferred institution type.</p>
+        </div>
+        <div class="step-card">
+            <div class="step-number">03</div>
+            <h3>Get your matches</h3>
+            <p>Receive recommended colleges, programs, and scholarship opportunities.</p>
+        </div>
+    </div>
+</section>
+
+<!-- STUDENT PROFILE -->
+<section class="section profile-section" id="profile">
+    <div class="section-heading">
+        <div class="eyebrow">STUDENT PROFILE</div>
+        <h2>Tell us about yourself.</h2>
+        <p>Your answers will be used to generate personalized college and scholarship recommendations.</p>
+    </div>
+
+    <form id="recommendationForm" class="profile-form">
+        <div class="form-grid">
+
+            <div class="form-group">
+                <label for="studentName">Student Name</label>
+                <input type="text" id="studentName" placeholder="Enter your name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="gradeLevel">Grade Level</label>
+                <select id="gradeLevel" required>
+                    <option value="Grade 12">Grade 12</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="strand">SHS Strand</label>
+                <select id="strand" required>
+                    <option value="">Select your strand</option>
+                    <option value="STEM">STEM</option>
+                    <option value="HUMSS">HUMSS</option>
+                    <option value="ABM">ABM</option>
+                    <option value="TVL">TVL</option>
+                    <option value="GAS">GAS</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="gwa">General Average</label>
+                <input type="number" id="gwa" min="75" max="100" step="0.01" placeholder="e.g. 90" required>
+            </div>
+
+            <div class="form-group full-width">
+                <label for="course">Preferred College Course</label>
+                <select id="course" required>
+                    <option value="">Select your preferred course</option>
+                    <option value="BS Nursing">BS Nursing</option>
+                    <option value="BS Information Technology">BS Information Technology</option>
+                    <option value="BS Computer Science">BS Computer Science</option>
+                    <option value="BS Accountancy">BS Accountancy</option>
+                    <option value="BS Education">BS Education</option>
+                    <option value="BS Psychology">BS Psychology</option>
+                    <option value="BS Civil Engineering">BS Civil Engineering</option>
+                    <option value="BS Business Administration">BS Business Administration</option>
+                    <option value="BS Criminology">BS Criminology</option>
+                    <option value="BS Agriculture">BS Agriculture</option>
+                    <option value="BS Social Work">BS Social Work</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="interest">Main Interest</label>
+                <select id="interest" required>
+                    <option value="">Select your interest</option>
+                    <option value="Health">Health</option>
+                    <option value="Technology">Technology</option>
+                    <option value="Business">Business</option>
+                    <option value="Education">Education</option>
+                    <option value="Science">Science</option>
+                    <option value="Engineering">Engineering</option>
+                    <option value="Social Sciences">Social Sciences</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="province">Preferred Province</label>
+                <select id="province" required>
+                    <option value="">Select your location</option>
+                    <option value="Maguindanao del Norte">Maguindanao del Norte</option>
+                    <option value="Maguindanao del Sur">Maguindanao del Sur</option>
+                    <option value="Lanao del Sur">Lanao del Sur</option>
+                    <option value="Basilan">Basilan</option>
+                    <option value="Sulu">Sulu</option>
+                    <option value="Tawi-Tawi">Tawi-Tawi</option>
+                    <option value="Cotabato City">Cotabato City</option>
+                    <option value="Any BARMM Province">Any BARMM Province</option>
+                </select>
+            </div>
+
+            <div class="form-group full-width">
+                <label for="institutionType">Preferred Institution Type</label>
+                <select id="institutionType" required>
+                    <option value="Any">No preference</option>
+                    <option value="Public">Public / State University</option>
+                    <option value="Private">Private College / University</option>
+                </select>
+            </div>
+
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="primary-button submit-button">Get My Recommendations</button>
+            <p class="form-note">Your information is used only to generate recommendations.</p>
+        </div>
+    </form>
+</section>
+
+<!-- RESULTS -->
+<section class="section results-section hidden" id="results">
+    <div class="section-heading">
+        <div class="eyebrow">YOUR RESULTS</div>
+        <h2>Your personalized recommendations.</h2>
+        <p id="resultIntro">Here are options that may match your profile and preferences.</p>
+    </div>
+
+    <div class="profile-summary" id="profileSummary">
+        <div class="summary-item"><small>Name</small><strong id="summaryName">—</strong></div>
+        <div class="summary-item"><small>Strand</small><strong id="summaryStrand">—</strong></div>
+        <div class="summary-item"><small>GWA</small><strong id="summaryGwa">—</strong></div>
+        <div class="summary-item"><small>Course</small><strong id="summaryCourse">—</strong></div>
+        <div class="summary-item"><small>Province</small><strong id="summaryProvince">—</strong></div>
+    </div>
+
+    <div id="colleges">
+        <div class="results-heading">
+            <div><div class="eyebrow">COLLEGES</div><h2>Recommended Schools</h2></div>
+            <span class="results-count" id="schoolCount"></span>
+        </div>
+        <div class="results-grid" id="schoolResults"></div>
+    </div>
+
+    <div id="scholarships" class="scholarship-section">
+        <div class="results-heading">
+            <div><div class="eyebrow">FINANCIAL AID</div><h2>Scholarship Opportunities</h2></div>
+            <span class="results-count" id="scholarshipCount"></span>
+        </div>
+        <div class="results-grid" id="scholarshipResults"></div>
+    </div>
+
+    <div class="edit-profile">
+        <button type="button" class="secondary-button" id="editProfileButton">Edit My Profile</button>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section about-section" id="about">
+    <div class="about-container">
+        <div>
+            <div class="eyebrow">ABOUT EDUMATCH</div>
+            <h2>Helping students make informed decisions.</h2>
+        </div>
+        <div class="about-text">
+            <p>EduMatch is a web-based college and scholarship recommendation system developed for Grade 12 students of Notre Dame of Parang, Inc.</p>
+            <p>The system helps students explore college programs, schools, admission information, and scholarship opportunities that may match their preferences.</p>
+            <p>EduMatch is intended as a decision-support tool. Recommendations do not guarantee admission, scholarship approval, or acceptance by any institution.</p>
+        </div>
+    </div>
+</section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+    <div class="footer-container">
+        <div>
+            <div class="logo footer-logo">Edu<span>Match</span></div>
+            <p>College and scholarship recommendation system for Grade 12 students.</p>
+        </div>
+        <div class="footer-links">
+            <a href="#home">Home</a>
+            <a href="#colleges">Colleges</a>
+            <a href="#scholarships">Scholarships</a>
+            <a href="#about">About</a>
+        </div>
+    </div>
+    <div class="footer-bottom"><p>© 2026 EduMatch. Notre Dame of Parang, Inc.</p></div>
+</footer>
+
+<!-- SCHOOL DETAILS MODAL -->
+<div class="modal hidden" id="schoolModal">
+    <div class="modal-overlay" id="schoolOverlay"></div>
+    <div class="modal-content">
+        <button class="modal-close" id="closeSchoolModal">×</button>
+        <div id="schoolModalContent"></div>
+    </div>
+</div>
+
+<!-- SCHOLARSHIP DETAILS MODAL -->
+<div class="modal hidden" id="scholarshipModal">
+    <div class="modal-overlay" id="scholarshipOverlay"></div>
+    <div class="modal-content">
+        <button class="modal-close" id="closeScholarshipModal">×</button>
+        <div id="scholarshipModalContent"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
