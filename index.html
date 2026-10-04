@@ -129,7 +129,7 @@
                 <input type="number" id="gwa" min="75" max="100" step="0.01" placeholder="e.g. 90" required>
             </div>
 
-            <div class="form-group full-width">
+                      <div class="form-group full-width">
                 <label for="course">Preferred College Course</label>
                 <select id="course" required>
                     <option value="">Select your preferred course</option>
@@ -144,8 +144,13 @@
                     <option value="BS Criminology">BS Criminology</option>
                     <option value="BS Agriculture">BS Agriculture</option>
                     <option value="BS Social Work">BS Social Work</option>
-                    <option value="Other">Other</option>
+                    <option value="Other">Other (not listed above)</option>
                 </select>
+            </div>
+
+            <div class="form-group full-width hidden" id="otherCourseGroup">
+                <label for="otherCourseText">What course are you interested in?</label>
+                <input type="text" id="otherCourseText" placeholder="e.g. BS Marine Biology">
             </div>
 
             <div class="form-group">
@@ -173,6 +178,7 @@
                     <option value="Sulu">Sulu</option>
                     <option value="Tawi-Tawi">Tawi-Tawi</option>
                     <option value="Cotabato City">Cotabato City</option>
+                    <option value="Special Geographic Area">Special Geographic Area (63 Barangays)</option>
                     <option value="Any BARMM Province">Any BARMM Province</option>
                 </select>
             </div>
