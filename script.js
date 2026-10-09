@@ -194,8 +194,8 @@ Section 1.2. Transferees:
         contact: `General inquiries via official website and the “MSU Marawi Campus Office of Admissions” Facebook page. Specific email/telephone: Not publicly available. Also listed in the other file: 
 Email: admissions.sase-cet@msumain.edu.ph 
 Messenger: Mindanao State University - Marawi Campus Office of Admissions`,
-        website: `www.msumain.edu.ph Also listed in the other file: Mindanao State University - Marawi Campus Office of Admissions |... Mindanao State University - Marawi Campus Office of Admissions, Marawi City. 31,211 followers · 25 talking about this · 337 were here. This is the Official Facebook Page of the Mindanao State...`,
-        source: `msumain.edu.ph (official); Mindanao State University – Wikipedia; MSU Marawi Campus Office of Admissions (Facebook) Also listed in the other file: Mindanao State University - Marawi Campus Office of Admissions |... Mindanao State University - Marawi Campus Office of Admissions, Marawi City. 31,211 followers · 25 talking about this · 337 were here. This is the Official Facebook Page of the Mindanao State...`,
+        website: `www.msumain.edu.ph`,
+        source: `msumain.edu.ph.`,
         dateVerified: `August 29, 2026`
     },
     {
@@ -207,7 +207,10 @@ Messenger: Mindanao State University - Marawi Campus Office of Admissions`,
         programsText: `BS Agriculture (major in Farming System); BS Business Administration (major in Human Resource Management); BS Criminology; Bachelor of Elementary Education (General Education); Bachelor of Secondary Education (major in Social Studies); BS Fisheries; BS Forestry (General Forestry); BS Information Technology; Graduate School: Certificate in Professional Teaching.`,
         matchedCourses: [`BS Information Technology`, `BS Education`, `BS Business Administration`, `BS Criminology`, `BS Agriculture`],
         admissionRequirements: [`Senior High School graduate from a CHED- and DepEd-recognized institution`, `must pass the AMSC Qualifying Exam`, `additional department-specific requirements as prescribed by each college.`],
-        admissionInfo: `Apply through the AMSC Registrar's Unit / Admission Procedures office. Enrollment steps: proceed to chosen college/department, secure Pre-Registration Form (PRF), then Guidance Office, Supreme Student Government (SSG) Office, and ICT Department to confirm free-tuition status.`,
+        admissionInfo: `Apply through the AMSC Registrar's Unit / Admission Procedures office. 
+Enrollment steps: proceed to chosen college/department, 
+secure Pre-Registration Form (PRF), 
+then Guidance Office, Supreme Student Government (SSG) Office, and ICT Department to confirm free-tuition status.`,
         tuition: `Free for qualified first-time students under RA 10931 (public state college); specific peso figures for miscellaneous fees: Not publicly available.`,
         scholarshipsAvailable: `Merit-based scholarships (academic achievement/leadership); Need-based scholarships and grants; Specialized scholarships for specific fields/programs; Athletic scholarships for student-athletes.`,
         contact: `Address: Ditsaan-Ramain, Lanao del Sur 9713, Philippines. Specific phone/email: Not publicly available.`,
@@ -258,15 +261,35 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         city: `Marawi City (Barangay Matampay / Darussalam)`,
         province: `Lanao del Sur`,
         type: `Private`,
-        programsText: `College-level courses follow the government-approved curriculum enriched with Islamic and Arabic studies. An itemized bachelor's-degree list is not currently published; the official website is undergoing an upgrade. Also listed in the other file: BS Criminology BS Social Work BS Information Technology BS Information System BS Computer Science BS Islamic Studies (BEEd) English, Math, Social Studies, Values Education, Filipino (BSBA) Human Resources Management (BSBA) Operational Management (BSBA) Business Economics (BSBA) Financial Management`,
+        programsText: `College-level courses follow the government-approved curriculum enriched with Islamic and Arabic studies. An itemized bachelor's-degree list is not currently published; the official website is undergoing an upgrade. Also listed in the other file: BS Criminology BS Social Work BS Information Technology BS Information System BS Computer Science BS Islamic Studies 
+(BEEd) English, Math, Social Studies, Values Education, Filipino 
+(BSBA) Human Resources Management 
+(BSBA) Operational Management 
+(BSBA) Business Economics 
+(BSBA) Financial Management`,
         matchedCourses: [`BS Information Technology`, `BS Computer Science`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Honorable Dismissal, Transcript of Records (TOR) - Photocopy, Good Moral Character certificate, Philippine Statistics Authority (PSA) Birth Certificate - Original or Photocopy, 2x2 ID picture, Brown long envelope Also listed in the other file: For New Students/Transferees: 1. Filled-out Registration Form 2. Diploma or Certificate of Completion 3. Latest Grade Card from the last school attended 4. Good Moral Certificate 5. Photo copy of PSA Birth Certificate 6. Two recent 2x2 ID Picture 7. Interview/Muqabalah 8. Enrollment Fee`],
+        admissionRequirements: [`Honorable Dismissal 
+Transcript of Records (TOR) - Photocopy
+Good Moral Character certificate
+Philippine Statistics Authority (PSA) 
+Birth Certificate - Original or Photocopy
+2x2 ID picture
+Brown long envelope 
+Also listed in the other file: For New Students/Transferees: 
+1. Filled-out Registration Form 
+2. Diploma or Certificate of Completion 
+3. Latest Grade Card from the last school attended 
+4. Good Moral Certificate 
+5. Photo copy of PSA Birth Certificate 
+6. Two recent 2x2 ID Picture 
+7. Interview/Muqabalah 
+8. Enrollment Fee`],
         admissionInfo: `Online enrollment for AY 2025–2026 was announced as an upcoming website feature at time of verification.`,
         tuition: `Not publicly available.`,
         scholarshipsAvailable: `Available Support and Scholarships Regional Subsidies: Students often qualify for government-backed initiatives like the Marawi Rehabilitation Program (MRP) educational cash assistance or tuition fee subsidies for displaced and local students. Internal Grants: Jamiatu Muslim Mindanao provides specific institutional updates and aid guidelines directly through their campus office or official channels.`,
         contact: `Telephone: +63 917 716 5030 / +63 917 704 2706 Also listed in the other file: Contact no.: 0917 773 3579 Email: info@jmm.edu.ph Messenger: Jamiatu Muslim Mindanao`,
-        website: `www.jmm.edu.ph Also listed in the other file: Jamiatu Muslim Mindanao | Marawi City Jamiatu Muslim Mindanao, Marawi City. 3,582 followers · 11 talking about this · 105 were here. This is the official Facebook page of Jamiatu Muslim Mindanao (JMM). JMM is a university founded in 1986...`,
-        source: `jmm.edu.ph (official); Jamiatu Muslim Mindanao – Wikipedia Also listed in the other file: Jamiatu Muslim Mindanao | Marawi City Jamiatu Muslim Mindanao, Marawi City. 3,582 followers · 11 talking about this · 105 were here. This is the official Facebook page of Jamiatu Muslim Mindanao (JMM). JMM is a university founded in 1986...`,
+        website: `www.jmm.edu.ph.`,
+        source: `jmm.edu.ph (official); Jamiatu Muslim Mindanao – Wikipedia.`,
         dateVerified: `August 29, 2026`
     },
     {
@@ -282,8 +305,8 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         tuition: `Enrollment Fee: ₱600 Examination Fee: ₱700 Monthly Payment: ₱700 (noted in prior terms) Orphan Privilege: ₱500 (discounted rate noted previously) Sibling Discount: 1 free tuition for every 4 siblings from the same family`,
         scholarshipsAvailable: `The school was founded in part to serve orphaned students at reduced cost, but no formal published scholarship program was found.`,
         contact: `+63 969 560 6780 Also listed in the other file: Contact no.: 0969 560 6780 Messenger: Lake Lanao College Incorporated`,
-        website: `No dedicated official website located; primary online presence is the “Lake Lanao College Incorporated” Facebook page. Also listed in the other file: Lake Lanao College Incorporated | Marawi City Lake Lanao College Incorporated, Marawi City. 10,867 followers · 28 talking about this · 49 were here. Private School`,
-        source: `FindUniversity.ph; Lake Lanao College Incorporated – Facebook; lakelanaocollege.blogspot.com Also listed in the other file: Lake Lanao College Incorporated | Marawi City Lake Lanao College Incorporated, Marawi City. 10,867 followers · 28 talking about this · 49 were here. Private School`,
+        website: `“Lake Lanao College Incorporated” Facebook page.`,
+        source: `FindUniversity.ph; Lake Lanao College Incorporated – Facebook; lakelanaocollege.blogspot.com`,
         dateVerified: `August 29, 2026`
     },
     {
@@ -294,13 +317,16 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `College of Information Technology and Engineering: BS Civil Engineering, BS Electrical Engineering, BS Information Technology College of Arts, Sciences, and Education: Bachelor of Elementary Education (BEED) General Education, Bachelor of Secondary Education (BSED) Mathematics, BS Accountancy, BS Criminology, BS Social Work.`,
         matchedCourses: [`BS Information Technology`, `BS Accountancy`, `BS Education`, `BS Civil Engineering`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Requirements & Process: Specific entrance credentials typically include a high school report card/form 138, good moral character certificate, and birth certificate. Action: You can visit the campus administration office directly or check updates via their communication lines for current enrollment periods.`],
+        admissionRequirements: [`Requirements & Process: Specific entrance credentials typically include a 
+high school report card/form 138
+good moral character certificate, and birth certificate. 
+Action: You can visit the campus administration office directly or check updates via their communication lines for current enrollment periods.`],
         admissionInfo: `Not publicly available.`,
         tuition: `Exact current semester rates are not publicly itemized online and require direct inquiry with the school cashier or registrar's office.`,
         scholarshipsAvailable: `Institutional or internal financial aid options may be available for qualified students; inquire directly at the administrative office during enrollment.`,
         contact: `0912-248-9147 or 0948-911-7178 peaci.school@gmail.com`,
         website: `Visit the PEACI Official Website for institutional overviews.`,
-        source: `Lanao del Sur – Wikipedia (list of higher education institutions). No independent official source was located to verify program offerings or contact details — recommend confirming directly with the institution or MBHTE-BARMM.`,
+        source: `Lanao del Sur – Wikipedia (list of higher education institutions).`,
         dateVerified: `August 29, 2026`
     },
     {
@@ -311,10 +337,22 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `Agriculture, Business Administration, Education, Computer Technology, Political Science, Technical-Vocational (TESDA)`,
         matchedCourses: [`BS Business Administration`, `BS Agriculture`],
-        admissionRequirements: [`New College Students: Report Card / Form 138, Certificate of Good Moral Character, PSA Certificate of Live Birth. Transferees: Certificate of Transfer Credentials or Honorable Dismissal, Transcript of Records (TOR) for evaluation, Certificate of Good Moral Character, PSA Certificate of Live Birth`],
-        admissionInfo: `Applications and enrollments can be processed through their on-site campus office or via their online system updates.For inquiries, you can visit the Adiong Memorial College Foundation Official Facebook Page. For inquiries, you can visit the Adiong Memorial College Foundation Official Facebook Page.`,
+        admissionRequirements: [`New College Students: 
+Report Card / Form 138
+ Certificate of Good Moral Character
+PSA Certificate of Live Birth. 
+Transferees: 
+Certificate of Transfer Credentials or Honorable Dismissal
+Transcript of Records (TOR) for evaluation
+Certificate of Good Moral Character
+PSA Certificate of Live Birth`],
+        admissionInfo: `Applications and enrollments can be processed through their on-site campus office or via their online system updates.For inquiries, you can visit the Adiong Memorial College Foundation Official Facebook Page. 
+For inquiries, you can visit the Adiong Memorial College Foundation Official Facebook Page.`,
         tuition: `Not publicly available.`,
-        scholarshipsAvailable: `AMCFI brands itself as a "school of scholars" and regularly provides financial assistance: Academic Scholarship: Provided to junior and senior high school students who maintain top academic rankings. TESDA Grants: For students enrolled in registered technical-vocational tracks, funding may be covered through government-sponsored TVET scholarship programs. ESC/Voucher Programs: Government subsidies that drastically lower tuition for qualified private school enrollees.`,
+        scholarshipsAvailable: `AMCFI brands itself as a "school of scholars" and regularly provides financial assistance: 
+Academic Scholarship: Provided to junior and senior high school students who maintain top academic rankings. 
+TESDA Grants: For students enrolled in registered technical-vocational tracks, funding may be covered through government-sponsored TVET scholarship programs. 
+ESC/Voucher Programs: Government subsidies that drastically lower tuition for qualified private school enrollees.`,
         contact: `Email: amcfi_wao@yahoo.com (+63) 920-910-3641`,
         website: `Official Web Channel: Adiong Memorial College Foundation, Inc. Official Facebook Page`,
         source: `Lanao del Sur – Wikipedia (list of higher education institutions). No independent official source was located — recommend confirming directly with the institution or MBHTE-BARMM.`,
@@ -328,13 +366,25 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `BS Agriculture; Bachelor of Elementary Education (BEED); BS Civil Engineering; BS Criminology; BS Computer Science; Bachelor of Social Work; AB Shariah (Islamic Studies); graduate programs in Education and Public Administration. Also listed in the other file: Bachelor of Elementary Education (BEED) Bachelor of Science in Criminology (BSCrim) Bachelor of Science in Civil Engineering (BSCE) Bachelor of Science in Computer Science (BSCS) Bachelor of Science in Social Work (BSSW) Bachelor of Science in Agriculture (BSA) AB - ISLAMIC STUDIES - Major in SHARI'AH MPA - Master in Public Administration - Major in Organization & Management MAED - Master of Arts in Education - Major in School Administration`,
         matchedCourses: [`BS Computer Science`, `BS Education`, `BS Civil Engineering`, `BS Criminology`, `BS Agriculture`, `BS Social Work`],
-        admissionRequirements: [`Undergraduate Students: LRN (Learner Reference Number), Two 2x2 ID pictures, Two long white folders, Photocopy of NSO/PSA Birth Certificate, Senior High School documents. Graduate School Students: CAV (Certification, Authentication, and Verification), Diploma and Honorable Dismissal, Evaluation sheet and Transcript of Record (TR), Special Order (SO), Two 2x2 ID pictures and two long white folders, Photocopy of NSO/PSA Birth Certificate. Also listed in the other file: REQUIREMENTS: for undergraduate: LRN Number 2x2 ID Picture 2pcs 1 Long White Folder 1 Long Brown Envelope Photocopy of NSO/PSA Birth Certificate All Documents from your Senior High School HS Family for Graduate School: CAV Diploma Honorable Dismissal Evaluation Sheet Photocopy of NSO/PSA Birth Certificate Transcript of Record - TR Special Order - SO 2x2 ID Picture 2pcs 1 Long White Folder 1 Long Brown Envelope for Transferee: Transcript of Record - TR Honorable Dismissal Good Moral Photocopy of NSO/PSA Birth Certificate 1 Long White Folder 1 Long Brown Envelope`],
+        admissionRequirements: [`UNDERGRADUATE STUDENTS: 
+LRN (Learner Reference Number)
+Two 2x2 ID pictures 
+Two long white folders
+Photocopy of NSO/PSA Birth Certificate
+Senior High School documents
+GRADUATE STUDENTS: 
+CAV (Certification, Authentication, and Verification)
+Diploma and Honorable DismissalE
+valuation sheet and Transcript of Record (TR)
+Special Order (SO)
+Two 2x2 ID pictures and two long white folders
+Photocopy of NSO/PSA Birth Certificate.`],
         admissionInfo: `Enrollment periods announced via the official Facebook page for new and transferee students; formal application steps not published on an official website.`,
         tuition: `Advertised as “The Home of Free Tuition Fee” — free tuition for one year with no monthly payment. This does not cover Enrollment fee, School ID, and School Uniform, which are charged separately.`,
         scholarshipsAvailable: `Not separately itemized; the free-tuition arrangement functions as the school's primary affordability program. Also listed in the other file: SPECIAL DISCOUNTS: ORPHAN (WATA A ILO) SIBLING DISCOUNT HONOR STUDENTS WATA A MUJAHIDEEN LESS FORTUNATE`,
         contact: `Facebook: “Lanao Central College” (official page: facebook.com/OfficialLCCI) Also listed in the other file: Contact no.: 0910 256 9881 Email: lccilayko@gmail.com Messenger: Lanao Central College`,
-        website: `No independently confirmed official website found. Also listed in the other file: Lanao Central College | Marawi City Lanao Central College, Marawi City. 71,680 followers · 1,723 talking about this · 89 were here. "THE HOME OF FREE TUITION FEE" No monthly payment, Free Tuition Fee for 1year. Except: Enrollment,...`,
-        source: `Facebook – Lanao Central College (official page); Studocu course listings (Lanao Central College, Inc.); EverybodyWiki – Lanao Central College, Inc. (lower-reliability source; cites founding by Dr. Bae Okile Mangondato Sharief, established 2012 — recommend independent verification). Also listed in the other file: Lanao Central College | Marawi City Lanao Central College, Marawi City. 71,680 followers · 1,723 talking about this · 89 were here. "THE HOME OF FREE TUITION FEE" No monthly payment, Free Tuition Fee for 1year. Except: Enrollment,...`,
+        website: `No independently confirmed official website found.`,
+        source: `Facebook – Lanao Central College (official page); Studocu course listings (Lanao Central College, Inc.); EverybodyWiki – Lanao Central College, Inc. (lower-reliability source; cites founding by Dr. Bae Okile Mangondato Sharief, established 2012 ).`,
         dateVerified: `August 29, 2026`
     },
     {
@@ -380,12 +430,18 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         programsText: `Bachelor of General Education (confirmed via student coursework); BS Accountancy (confirmed via active Junior Philippine Institute of Accountants student chapter). Also operates a Senior High School department. School follows a tri-semester academic calendar. Full undergraduate catalog not independently published.`,
         matchedCourses: [`BS Accountancy`],
         admissionRequirements: [`PSA Birth CertificateForm 138 (Report Card) or Transcript of Records (TOR), Certificate of Good Moral Character, 2x2 ID photo, White folder`],
-        admissionInfo: `Office Hours: Sunday to Thursday, 8:00 AM – 4:00 PM (Registrar's Office, 1st Floor, RC-AKICFI Main Building). Enrolling Process: Applications and enrollment coordination are handled directly at the Registrar's Office or via their official social media page.`,
+        admissionInfo: `Office Hours: Sunday to Thursday, 8:00 AM – 4:00 PM (Registrar's Office, 1st Floor, RC-AKICFI Main Building). 
+Enrolling Process: Applications and enrollment coordination are handled directly at the Registrar's Office or via their official social media page.`,
         tuition: `Specific exact peso amounts are not published online. Payment Options: Tuition installment plans and various discount privileges are available.`,
-        scholarshipsAvailable: `Tuition Discounts: Available for the Honors Program, Leadership Institute, and Varsity members. Sibling Discounts: 50% discount on tuition for the 3rd child, and 100% free tuition for the 4th child when enrolled concurrently (applies to the youngest). Employee Dependents: 20% tuition fee discount for RC dependents`,
+        scholarshipsAvailable: `Tuition Discounts: Available for the Honors Program, Leadership Institute, and Varsity members. 
+Sibling Discounts: 50% discount on tuition for the 3rd child, and 100% free tuition for the 4th child when enrolled concurrently (applies to the youngest). 
+Employee Dependents: 20% tuition fee discount for RC dependents`,
         contact: `Facebook: “RC-Al Khwarizmi International College Foundation Inc.- Main” (official Main Campus page)`,
         website: `No independent official website found; primary online presence via Facebook.`,
-        source: `alkhwarizmijdiplomats.blogspot.com (school-affiliated blog — institutional mission/vision); Facebook – RC-Al Khwarizmi International College Foundation Inc.- Main, and JPIA-RC Al Khwarizmi International College; Ministry of Basic, Higher and Technical Education (MBHTE-BARMM) 2025 UPCAT passers announcement, which names this school among Bangsamoro schools producing UPCAT-qualified graduates`,
+        source: `alkhwarizmijdiplomats.blogspot.com (school-affiliated blog — institutional mission/vision); 
+Facebook – RC-Al Khwarizmi International College Foundation Inc.- Main, and JPIA-RC Al Khwarizmi International College; 
+Ministry of Basic, Higher and Technical Education (MBHTE-BARMM) 2025 UPCAT passers announcement, 
+which names this school among Bangsamoro schools producing UPCAT-qualified graduates`,
         dateVerified: `August 29, 2026`
     },
     {
@@ -396,7 +452,10 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Public`,
         programsText: `BS Criminology is confirmed (referenced in Professional Regulation Commission board-exam records). A complete current program list is not published online.`,
         matchedCourses: [`BS Criminology`],
-        admissionRequirements: [`Form 138 (Report Card) or Form 137 from high school.Certificate of Good Moral Character.Birth Certificate (PSA copy).Recent ID picture`],
+        admissionRequirements: [`Form 138 (Report Card) or Form 137 from high school.
+Certificate of Good Moral Character.
+Birth Certificate (PSA copy).
+Recent ID picture`],
         admissionInfo: `Not publicly available.`,
         tuition: `Government-subsidized as a CHED-supervised public institution; itemized fees: Not publicly available.`,
         scholarshipsAvailable: `Available through government-funded programs, local government unit (LGU) grants, or partner agencies like TESDA for qualified students.`,
@@ -411,7 +470,9 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         city: `Kapatagan`,
         province: `Lanao del Sur`,
         type: `Private`,
-        programsText: `BS Criminology, Education, and Socila Work`,
+        programsText: `BS Criminology
+Education, 
+and Social Work`,
         matchedCourses: [`BS Criminology`],
         admissionRequirements: [`Specific admission credentials (like report cards, transcripts, or placement forms) are managed directly by the registrar's office.`],
         admissionInfo: `Not publicly available.`,
@@ -449,13 +510,21 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `BS Criminology BS Social Work BS Elementary Education BS Information Technology BA Islamic Studies (Shari’ah) BS Accountancy BS Customs Administration Associate in Computer Technology`,
         matchedCourses: [`BS Information Technology`, `BS Accountancy`, `BS Education`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Requirements for Freshmen: Form 138 Good Moral Certificate NSO/PSA Birth Certificate (Photocopy) 2x2 ID Picture (2 pcs) Long White Folder Requirements for Transferees: TOR or Evaluation Sheet Honorable Dismissal NSO/PSA Birth Certificate (Photocopy) 2x2 ID Picture (2 pcs) Long White Folder`],
+        admissionRequirements: [`Requirements for Freshmen: 
+Form 138 Good Moral Certificate 
+NSO/PSA Birth Certificate (Photocopy) 
+2x2 ID Picture (2 pcs) 
+Long White Folder Requirements for 
+Transferees: 
+TOR or Evaluation Sheet Honorable Dismissal 
+NSO/PSA Birth Certificate (Photocopy) 
+2x2 ID Picture (2 pcs) Long White Folder`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Messenger: Dansalan Polytechnic College - DPC`,
-        website: `Dansalan Polytechnic College - DPC Dansalan Polytechnic College - DPC. 4,080 followers · 694 talking about this. Government organization`,
-        source: `Dansalan Polytechnic College - DPC Dansalan Polytechnic College - DPC. 4,080 followers · 694 talking about this. Government organization`,
+        website: `Dansalan Polytechnic College`,
+        source: `Dansalan Polytechnic College`,
         dateVerified: `Not stated in source file`
     },
     {
@@ -466,13 +535,28 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `Bachelor of Elementary Education major in General Education Bachelor of Secondary Education major in English Bachelor of Science in Social Work`,
         matchedCourses: [`BS Education`, `BS Social Work`],
-        admissionRequirements: [`Exclusive for Female Students Only In line with our commitment to a safe, modest, and values-based Islamic learning environment, PMTC implements an admission policy for female students only. FOR FRESHMEN: Senior High School Report Card (Original) Certificate of Good Moral Character (Original) Diploma (Photocopy) PSA Birth Certificate (Photocopy) 4 pcs 1x1 and 2x2 ID pictures (recent, white background with name tag) Certificate of Indigency 1 Long Brown Envelope FOR TRANSFEREES: Transcript of Records (TOR) and/or Evaluation Sheet (Original) Transfer Credentials / Honorable Dismissal (Original) PSA Birth Certificate (Photocopy) 4 pcs 1x1 and 2x2 ID pictures (recent, white background with name tag) Certificate of Indigency 1 Long Brown Envelope`],
+        admissionRequirements: [`Exclusive for Female Students Only In line with our commitment to a safe, modest, and values-based Islamic learning environment, PMTC implements an admission policy for female students only. 
+FOR FRESHMEN: 
+Senior High School Report Card (Original) 
+Certificate of Good Moral Character (Original) 
+Diploma (Photocopy) 
+PSA Birth Certificate (Photocopy) 
+4 pcs 1x1 and 2x2 ID pictures (recent, white background with name tag) 
+Certificate of Indigency 
+1 Long Brown Envelope 
+FOR TRANSFEREES: 
+Transcript of Records (TOR) and/or Evaluation Sheet (Original)
+Transfer Credentials / Honorable Dismissal (Original) 
+PSA Birth Certificate (Photocopy) 
+4 pcs 1x1 and 2x2 ID pictures (recent, white background with name tag) 
+Certificate of Indigency 
+1 Long Brown Envelope`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Contact no.: 0909 065 9449 Email: alhamdulillah2019@yahoo.com Messenger: Philippine Muslim Teachers' College - PMTC Official`,
-        website: `Philippine Muslim Teachers' College - PMTC Official | Marawi City Philippine Muslim Teachers' College - PMTC Official, Marawi City. 13,587 followers · 218 talking about this · 230 were here. This is the Official Facebook page of the Philippine Muslim Teachers'...`,
-        source: `Philippine Muslim Teachers' College - PMTC Official | Marawi City Philippine Muslim Teachers' College - PMTC Official, Marawi City. 13,587 followers · 218 talking about this · 230 were here. This is the Official Facebook page of the Philippine Muslim Teachers'...`,
+        website: `Philippine Muslim Teachers' College - PMTC Official | Marawi City Philippine Muslim Teachers' College - PMTC Official, Marawi City.`,
+        source: `Philippine Muslim Teachers' College - PMTC Official`,
         dateVerified: `Not stated in source file`
     },
     {
@@ -483,14 +567,23 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `Courses Offered Bachelor of Science in Criminology Bachelor of Elementary Education (BEEd) Bachelor of Science in Social Work (BSSW) Bachelor of Public Administration (BPA) Bachelor of Arts in Islamic Studies – Major in Shari’ah Law (BAIS) Bachelor of Secondary Education (BSEd) Major in English Major in Mathematics Major in Science Major in Social Studies`,
         matchedCourses: [`BS Education`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Enrollment Process Secure a CDT Form. Take the College Entrance Examination Receive your examination result. Proceed to your preferred course for the interview and/or written examination. If qualified, continue with the admission process. Submit your accomplished Admission Form to the Admission Office. Secure and submit your Medical Certificate. Obtain a Library Borrower’s Card from the Library. Process your Student ID application. Wait for the release of your Certificate of Registration (COR). Once released, you are officially enrolled!`],
+        admissionRequirements: [`Enrollment Process Secure a CDT Form. 
+Take the College Entrance Examination Receive your examination result. 
+Proceed to your preferred course for the interview and/or written examination. 
+If qualified, continue with the admission process. 
+Submit your accomplished Admission Form to the Admission Office. 
+Secure and submit your Medical Certificate. 
+Obtain a Library Borrower’s Card from the Library. 
+Process your Student ID application. 
+Wait for the release of your Certificate of Registration (COR). 
+Once released, you are officially enrolled!`],
         admissionInfo: `Not publicly available`,
         tuition: `Maximum of ₱700 Enrollment Fees FREE Tuition Fees NO Monthly Payment`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Messenger: Lanao College of Criminology - LCCr`,
-        website: `Lanao College of Criminology - LCCr | Masiu Lanao College of Criminology - LCCr, Masiu. 1,768 followers · 12,994 talking about this · 9 were here. Free Tuition and No Monthly Payments 🤝🏻`,
-        source: `Lanao College of Criminology - LCCr | Masiu Lanao College of Criminology - LCCr, Masiu. 1,768 followers · 12,994 talking about this · 9 were here. Free Tuition and No Monthly Payments 🤝🏻`,
-        dateVerified: `Not stated in source file`
+        website: `No Available Independent Website`,
+        source: `Lanao College of Criminology - LCCr | Masiu Lanao College of Criminology - LCCr`,
+        dateVerified: `August 2026`
     },
     {
         id: 23,
@@ -498,16 +591,24 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         city: `Lumbatan, Philippines, 9307`,
         province: `Lanao del Sur`,
         type: `Private`,
-        programsText: `Undergraduate Programs: Bachelor of Science in Criminology (BS Criminology) Bachelor of Science in Social Work (BS Social Work) Bachelor of Science in Agriculture Major in Agronomy (BSA-Agronomy) Bachelor of Science in Agriculture Major in Animal Science (BSA-Ansci) Bachelor of Elementary Education (BEEd) Bachelor of Early Childhood Education (BECEd)`,
+        programsText: `Undergraduate Programs: Bachelor of Science in Criminology
+Bachelor of Science in Social Work 
+Bachelor of Science in Agriculture Major in Agronomy
+Bachelor of Science in Agriculture Major in Animal Science
+Bachelor of Elementary Education 
+Bachelor of Early Childhood Education`,
         matchedCourses: [`BS Education`, `BS Criminology`, `BS Agriculture`, `BS Social Work`],
-        admissionRequirements: [`For New Students: Incoming First-Year College Students and Transferees 1. Bring your PSA Birth Certificate and your card/temporary transcript of records/evaluation. 2. Enroll at the Office of the Registrar located in the Administration Building. 3. Fill out the Registration Form.`],
+        admissionRequirements: [`For New Students: Incoming First-Year College Students and Transferees 
+1. Bring your PSA Birth Certificate and your card/temporary transcript of records/evaluation. 
+2. Enroll at the Office of the Registrar located in the Administration Building. 
+3. Fill out the Registration Form.`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Messenger: Lanao Agricultural College`,
-        website: `Lanao Agricultural College | Lumbatan Lanao Agricultural College, Lumbatan. 1,488 followers · 3 talking about this · 1 was here. Lanao Agricultural College's offered Bachelor's and Master's Degree`,
-        source: `Lanao Agricultural College | Lumbatan Lanao Agricultural College, Lumbatan. 1,488 followers · 3 talking about this · 1 was here. Lanao Agricultural College's offered Bachelor's and Master's Degree`,
-        dateVerified: `Not stated in source file`
+        website: `No  Independent Website Available`,
+        source: `Lanao Agricultural College | Lumbatan Lanao Agricultural College Facebook`,
+        dateVerified: `August 2026`
     },
     {
         id: 24,
@@ -517,7 +618,19 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `Bachelor of Science in Social Work Bachelor of Science in Accounting Information System Bachelor of Science in Civil Engineering Bachelor of Science in Criminology Bachelor of Elementary Education Bachelor of Secondary Education [Major in English, Mathematics, Science, and TLE] Bachelor of Science in Hospitality Management`,
         matchedCourses: [`BS Education`, `BS Civil Engineering`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`FOR INCOMING FRESHMEN Prepare the following requirements for enrollment: PSA Birth Certificate Good Moral Certificate Form 137 Form 138 (CARD) 2x2 ID Picture (2pcs) Long Brown Envelope FOR TRANSFEREES Submit the following documents: Good Moral Certificate Honorable Dismissal Transcript of Records 2x2 ID Picture (2pcs) PSA Birth Cert. Long Brown Envelope`],
+        admissionRequirements: [`FOR INCOMING FRESHMEN :
+ PSA Birth Certificate 
+Good Moral Certificate 
+Form 137 Form 138 (CARD) 
+2x2 ID Picture (2pcs) 
+Long Brown Envelope 
+FOR TRANSFEREES :
+Good Moral Certificate 
+Honorable Dismissal 
+Transcript of Records 
+2x2 ID Picture (2pcs) 
+PSA Birth Cert. 
+Long Brown Envelope`],
         admissionInfo: `Not publicly available/ Contact the school directly`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -588,7 +701,12 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `Bachelor of Elementary Education (BEEd) Bachelor of Secondary Education (BSEd) Major in: English, Math, and Filipino Bachelor of Science in Business Administration (BSBA) Bachelor of Science in Criminology (BSCrim) Bachelor of Science in Social Work (BSSW) Bachelor of Science in Information Systems Bachelor of Science in Tourism Management (BSTM)`,
         matchedCourses: [`BS Education`, `BS Business Administration`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Form 138 or Report Card Good Moral Character Certificate PSA Birth Certificate Certificate of Residency 3 pcs 2x2 ID picture (white background) 2 pcs long brown envelope`],
+        admissionRequirements: [`Form 138 or Report Card 
+Good Moral Character Certificate 
+PSA Birth Certificate 
+Certificate of Residency 
+3 pcs 2x2 ID picture (white background) 
+2 pcs long brown envelope`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -639,7 +757,16 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Public`,
         programsText: `BS Information Technology BS Social Work BS Psychology BS Community Development BS Biology BS Agriculture BS Agribusiness BS Fisheries BS Forestry Bachelor of Elementary Education Bachelor of Secondary Education Bachelor of Physical Education Bachelor of Technology and Livelihood Education Bachelor of Technical-Vocational Teacher Education BA Islamic Studies`,
         matchedCourses: [`BS Information Technology`, `BS Education`, `BS Psychology`, `BS Agriculture`, `BS Social Work`],
-        admissionRequirements: [`A. FOR NEW STUDENTS Transcript of records (Original) Birth Certificate (PSA) 2X2 ID Picture (2pcs) 1x1 ID Picture for Library ID (1pc) Honorable Dismissal Authority to study for working students Brown Kraft Long Envelope B. FOR TRANSFEREES All of the abovementioned requirements plus Law School Transcript of Records.`],
+        admissionRequirements: [`A. FOR NEW STUDENTS 
+Transcript of records (Original) 
+Birth Certificate (PSA) 
+2X2 ID Picture (2pcs) 
+1x1 ID Picture for Library ID 
+(1pc) Honorable Dismissal Authority to study 
+for working students Brown Kraft Long Envelope 
+B. FOR TRANSFEREES 
+All of the abovementioned requirements 
+plus Law School Transcript of Records.`],
         admissionInfo: `Apply/enroll through the university’s admission process.`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -656,13 +783,25 @@ Examination/Periodic Fees: Low incremental payments around ₱500 per exam perio
         type: `Private`,
         programsText: `Bachelor of Elementary Education Bachelor of Secondary Education – English, Filipino, Social Studies Bachelor of Arts – English, History BS Business Administration – Financial Management, Marketing Management Also listed in the other file: Publicly available records identify Bachelor of Elementary Education; Bachelor of Secondary Education (English, Filipino and Social Studies) BA English and History BS Business Administration (Financial Management and Marketing Management) Associate in Computer Technology, among other offerings.`,
         matchedCourses: [`BS Education`, `BS Business Administration`],
-        admissionRequirements: [`FOR INCOMING FRESHMEN Prepare the following requirements for enrollment: PSA Birth Certificate Good Moral Certificate Form 137 Form 138 (CARD) 2x2 ID Picture (2pcs) Long Brown Envelope FOR TRANSFEREES Submit the following documents: Good Moral Certificate Honorable Dismissal Transcript of Records 2x2 ID Picture (2pcs) PSA Birth Cert. Long Brown Envelope`],
+        admissionRequirements: [`FOR INCOMING FRESHMEN Prepare the following requirements for enrollment: 
+PSA Birth Certificate 
+Good Moral Certificate 
+Form 137 Form 138 (CARD) 
+2x2 ID Picture (2pcs) 
+Long Brown Envelope 
+FOR TRANSFEREES Submit the following documents: 
+Good Moral Certificate 
+Honorable Dismissal 
+Transcript of Records 
+2x2 ID Picture (2pcs) 
+PSA Birth Cert. 
+Long Brown Envelope`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `No Tuition Fee Increase, PEAC Accreditation, Free Tuition for Qualified ESC Grantees`,
         contact: `Cell Phone Number: 09061805778 Facebook Page: De la Vida College, Inc. Also listed in the other file: Location: De La Vida Building, Notre Dame Avenue, Cotabato City Landline Number: (064) 421-2567. 09061805778`,
-        website: `De la Vida College,Inc. | Cotabato City De la Vida College,Inc., Cotabato City. 589 likes · 24 talking about this · 5 were here. The Official Facebook Page of De la Vida College, Inc. Also listed in the other file: No independently verified current official website found. Facebook Page: https://www.facebook.com/p/De-la-Vida-CollegeInc-100095169745479/`,
-        source: `De la Vida College,Inc. | Cotabato City De la Vida College,Inc., Cotabato City. 589 likes · 24 talking about this · 5 were here. The Official Facebook Page of De la Vida College, Inc. Also listed in the other file: https://www.facebook.com/p/De-la-Vida-CollegeInc-100095169745479/`,
+        website: `https://www.facebook.com/p/De-la-Vida-CollegeInc-100095169745479/`,
+                source: `De la Vida College, Inc. – Official Facebook Page`,
         dateVerified: `August 30, 2026`
     },
     {
@@ -692,8 +831,8 @@ Also listed in the other file:
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Messenger: Dr P Ocampo Colleges, Inc. 
-	Also listed in the other file: Office Location De Mazenod Avenue Extension, Cotabato City Landline Number (064) 421-5697`,
-        website: `Dr P Ocampo Colleges, Inc. Also listed in the other file: No Standalone Official Website Official Facebook Page: https://www.facebook.com/dpoci.maincampus/`,
+	Landline Number (064) 421-5697`,
+        website: `https://www.facebook.com/dpoci.maincampus/`,
         source: `https://www.facebook.com/share/1BqHhEAgkh/ 
 	Also listed in the other file: CHED records and current school information`,
         dateVerified: `August 26, 2026`
@@ -706,7 +845,25 @@ Also listed in the other file:
         type: `Private`,
         programsText: `Bachelor of Elementary Education Bachelor of Science in Criminology Bachelor of Science in Industrial Security Management Master of Science and Criminal Justice`,
         matchedCourses: [`BS Education`, `BS Criminology`],
-        admissionRequirements: [`FOR INCOMING 1ST YEAR STUDENTS: SIHS Report Card (Form 138 – Original and 2 photocopies) Certificate of Good Moral Character – Original and 2 photocopies PSA Birth Certificate – 1 photocopy Long Brown Envelope – 3 pcs. 2x2 ID picture – 1 pc. 4x5 Haircut (For Male) Entrance Exam FOR TRANSFEREES: Transcript of Records (TOR) – Original and 2 photocopies Honorable Dismissal– Original and 2 photocopies Certificate of Good Moral Character – Original and 2 photocopies PSA Birth Certificate – 1 photocopy Long Brown Envelope – 3 pcs. 2x2 ID picture – 1 pc. 4x5 Haircut (For Male) Entrance Exam`],
+        admissionRequirements: [`FOR INCOMING 1ST YEAR STUDENTS: 
+	SIHS Report Card (Form 138 – Original and 2 photocopies) 
+	Certificate of Good Moral Character 
+	Original and 2 photocopies PSA 
+	Birth Certificate – 1 photocopy 
+	Long Brown Envelope – 3 pcs. 
+	2x2 ID picture – 1 pc. 
+	4x5 Haircut (For Male) 
+	Entrance Exam 
+
+FOR TRANSFEREES: 
+	Transcript of Records (TOR) – Original and 2 photocopies 
+	Honorable Dismissal– Original and 2 photocopies 
+	Certificate of Good Moral Character – Original and 2 photocopies 
+	PSA Birth Certificate – 1 photocopy 
+	Long Brown Envelope – 3 pcs. 
+	2x2 ID picture – 1 pc. 
+	4x5 Haircut (For Male) 
+	Entrance Exam`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -723,12 +880,40 @@ Also listed in the other file:
         type: `Private`,
         programsText: `Bachelor of Arts in Islamic Studies – Major in Political Economy Bachelor of Secondary Education (BSEd) – Major in English Bachelor of Science in Information Technology (BSIT) Also listed in the other file: AB Islamic Studies – Major in Political Economy; Bachelor of Secondary Education (BSEd) – Major in English; BS Information Technology (BSIT).`,
         matchedCourses: [`BS Information Technology`, `BS Education`],
-        admissionRequirements: [`Incoming Freshmen Barangay Clearance Barangay Certificate of Indigency PSA Authenticated Birth Certificate (Original Copy) Original Copy of Senior High School Report Card Certificate of Good Moral Character Four (4) passport-size photos (white background) Long brown envelope Transfer Students Barangay Clearance Barangay Certificate of Indigency PSA Authenticated Birth Certificate (Original Copy) Transcript of Records (TOR) Certificate of Good Moral Character Honorable Dismissal Certificate of Transfer Four (4) passport-size photos (white background) Long brown envelope`],
-        admissionInfo: `For Bachelor of Science in Information Technology (BSIT) The first ten (10) students to register will receive free tuition for four (4) years. Students ranked 11th to 25th will receive a 50% tuition discount for four (4) years. Only 25 slots are available for the BSIT program. Also listed in the other file: Enrollment for AY 2026–2027 is advertised as ongoing, with limited slots and first-come, first-served enrollment. Entrance examination fee is listed as ₱100 and the enrollment fee as ₱1,200.`,
+        admissionRequirements: [`INCOMING FRESHMEN
+Barangay Clearance 
+Barangay Certificate of Indigency 
+PSA Authenticated Birth Certificate (Original Copy) 
+Original Copy of Senior High School Report Card 
+Certificate of Good Moral Character 
+Four (4) passport-size photos (white background) 
+Long brown envelope 
+TRANSFER STUDENTS: 
+Barangay Clearance Barangay \
+Certificate of Indigency 
+PSA Authenticated Birth Certificate (Original Copy) 
+Transcript of Records (TOR) 
+Certificate of Good Moral 
+Character Honorable Dismissal 
+Certificate of Transfer 
+Four (4) passport-size photos (white background) 
+Long brown envelope`],
+        admissionInfo: `For Bachelor of Science in Information Technology (BSIT) The first ten (10) students to register will receive free tuition for four (4) years. 
+Students ranked 11th to 25th will receive a 50% tuition discount for four (4) years. 
+Only 25 slots are available for the BSIT program. 
+Also listed in the other file: Enrollment for AY 2026–2027 is advertised as ongoing, with limited slots and first-come, first-served enrollment. 
+Entrance examination fee is listed as ₱100 and the enrollment fee as ₱1,200.`,
         tuition: `Entrance Exam Fee: ₱100.00 Enrollment Fee: ₱1,200.00 Also listed in the other file: Entrance examination: ₱100; enrollment fee: ₱1,200. Full tuition rate was not publicly verified.`,
-        scholarshipsAvailable: `Available Scholarships and Discounts Students without scholarships or sponsorships whose educational expenses are supported by a parent or guardian are eligible for a 50% tuition fee discount for four (4) years. 10% discount for student leaders (Supreme Student Council). Four (4) years of free tuition for students graduating with honors. Four (4) years of free tuition for students with a General Weighted Average (GWA) of 93% or higher. Also listed in the other file: Scholarships and discounts are advertised, but the complete current list and qualifications were not publicly verified.`,
-        contact: `Contact no.: (064) 421 1946 Messenger: Jamiat Cotabato and Institute of Technology - جامعة كوتاباتو Also listed in the other file: Location Bubong Road, Barangay Datu Balabaran, Cotabato City, Philippines, 9600 Landline Number 0906-821-4009.`,
-        website: `https://www.facebook.com/share/1864PDfCcA/ Also listed in the other file: No independently verified official website found. Facebook Page: https://www.facebook.com/jamiatcotabatoofficialpage/`,
+        scholarshipsAvailable: `Available Scholarships and Discounts 
+Students without scholarships or sponsorships whose educational expenses are supported by a parent or guardian are eligible for a 50% tuition fee discount for four (4) years. 
+10% discount for student leaders (Supreme Student Council). 
+Four (4) years of free tuition for students graduating with honors. 
+Four (4) years of free tuition for students with a General Weighted Average (GWA) of 93% or higher. 
+Also listed in the other file: Scholarships and discounts are advertised, but the complete current list and qualifications were not publicly verified.`,
+        contact: `Contact no.: (064) 421 1946 Messenger: Jamiat Cotabato and Institute of Technology - جامعة كوتاباتو  
+Landline Number 0906-821-4009.`,
+        website: `https://www.facebook.com/share/1864PDfCcA/
+Facebook Page: https://www.facebook.com/jamiatcotabatoofficialpage/`,
         source: `https://www.facebook.com/share/1864PDfCcA/ Also listed in the other file: UniFAST; current 2026 JCIT enrollment announcement; Cotabato City Government. (UniFAST)`,
         dateVerified: `August 30, 2026`
     },
@@ -806,7 +991,8 @@ Also listed in the other file:
         city: `Notre Dame Avenue, Rosary Heights 3, Cotabato City, Philippines`,
         province: `Cotabato City`,
         type: `Private`,
-        programsText: `Juris Doctor Bachelor of Science in Nursing Bachelor of Multimedia Arts Bachelor of Science in Computer Science Bachelor of Science in Information Technology Bachelor of Science in Electrical Engineering Bachelor of Science in Electronics Engineering Bachelor of Science in Computer Engineering Bachelor of Science in Civil Engineering Bachelor of Science in Mechanical Engineering Bachelor of Elementary Education Bachelor of Physical Education Bachelor of Secondary Education major in Mathematics Bachelor of Secondary Education major in Filipino Bachelor of Secondary Education major in Science Bachelor of Secondary Education major in English Bachelor of Public Administration Bachelor of Science in Business Administration major in Human Resource Management Bachelor of Science in Business Administration major in Marketing Management Bachelor of Science in Business Administration major in Financial Management Bachelor of Science in Accountancy Bachelor of Science in Biology Bachelor of Arts Major in Philosophy Bachelor of Science in Psychology Also listed in the other file: Arts & Sciences: AB Philosophy, AB Communication, BS Biology, BS Psychology. Business & Accountancy: BS Accountancy, BS Accounting Information Systems, BSBA (Marketing, HR, Financial Management), Bachelor of Public Administration. Education: BEEd, BSEd (English, Filipino, Mathematics, Science), BPEd. Engineering & Computer Studies: BS Civil Engineering, BS Mechanical Engineering, BS Electrical Engineering, BS Computer Engineering, BS Electronics Engineering, BSIT, BS Computer Science, BS Multimedia Arts. It also has Health Sciences, Law, and graduate programs.`,
+        programsText: `Juris Doctor 
+Bachelor of Science in Nursing Bachelor of Multimedia Arts Bachelor of Science in Computer Science Bachelor of Science in Information Technology Bachelor of Science in Electrical Engineering Bachelor of Science in Electronics Engineering Bachelor of Science in Computer Engineering Bachelor of Science in Civil Engineering Bachelor of Science in Mechanical Engineering Bachelor of Elementary Education Bachelor of Physical Education Bachelor of Secondary Education major in Mathematics Bachelor of Secondary Education major in Filipino Bachelor of Secondary Education major in Science Bachelor of Secondary Education major in English Bachelor of Public Administration Bachelor of Science in Business Administration major in Human Resource Management Bachelor of Science in Business Administration major in Marketing Management Bachelor of Science in Business Administration major in Financial Management Bachelor of Science in Accountancy Bachelor of Science in Biology Bachelor of Arts Major in Philosophy Bachelor of Science in Psychology Also listed in the other file: Arts & Sciences: AB Philosophy, AB Communication, BS Biology, BS Psychology. Business & Accountancy: BS Accountancy, BS Accounting Information Systems, BSBA (Marketing, HR, Financial Management), Bachelor of Public Administration. Education: BEEd, BSEd (English, Filipino, Mathematics, Science), BPEd. Engineering & Computer Studies: BS Civil Engineering, BS Mechanical Engineering, BS Electrical Engineering, BS Computer Engineering, BS Electronics Engineering, BSIT, BS Computer Science, BS Multimedia Arts. It also has Health Sciences, Law, and graduate programs.`,
         matchedCourses: [`BS Nursing`, `BS Information Technology`, `BS Computer Science`, `BS Accountancy`, `BS Education`, `BS Psychology`, `BS Civil Engineering`, `BS Business Administration`],
         admissionRequirements: [`For College Admission Test and other inquiries, visit: NDU Guidance & Testing Center or proceed to the NDU-Guidance Testing Center Office.BS Medical Technology Also listed in the other file: Incoming freshmen: Original Senior High School Card with school seal`, `Original Certificate of Good Moral Character`, `Original PSA Birth Certificate`, `one 2×2 colored ID picture with white background`, `and a long brown envelope for submitted documents. Transferees: Original Transcript of Records with school seal and Certificate of Transfer Credential/Honorable Dismissal`, `Original Certificate of Good Moral Character`, `Original PSA Birth Certificate`, `one 2×2 colored ID picture with white background`, `and a long brown envelope. Additional requirements may apply depending on the program.`],
         admissionInfo: `NDU's Guidance and Testing Center (GTC) handles admission for new students. The admission program includes scheduling and administering the admission test, determining cut-off scores, classifying students according to program, referring applicants to the appropriate dean, and conducting orientation for new freshmen and transferees. For the current AY 2026–2027, NDU's website indicates that the College Admission Test is open.`,
@@ -825,13 +1011,22 @@ Also listed in the other file:
         type: `Private`,
         programsText: `BS Tourism Management BS Accounting Management BS Hospitality Management BS Information Technology BS Business Administration – Major in Financial Management and Marketing Management Bachelor of Elementary Education Bachelor of Secondary Education – Major in English, Science, and Mathematics Also listed in the other file: BS Information Technology (BSIT BS Business Administration (BSBA) – Financial Management and Marketing Management Bachelor of Secondary Education (BSEd) – English, Filipino, Mathematics, Physical Sciences Bachelor of Elementary Education (BEEd) BS Hospitality Management; BS Entrepreneurship; plus, TESDA programs.`,
         matchedCourses: [`BS Information Technology`, `BS Education`, `BS Business Administration`],
-        admissionRequirements: [`FIRST YEAR COLLEGE AND TRANSFEREES Form 138 (Report Card) Birth Certificate (PSA) Certificate of Good Moral 3pcs 2x2 Recent Colored ID Picture Baptismal Certificate (For Catholics only) Transcript of Records (For Transferees) Honorable Dismissal (For Transferees) Also listed in the other file: HAVE TAKEN AND PASSED THE ENTRANCE EXAM TEST FORM 137 BIRTH CERTIFICATE (SECFA FROM NSO) CERTIFICATE OF GOOD MORAL CHARACTER ACCOMPLISHMENTS FORM FROM THE GUIDANCE OFFICE 4 PCS. 2 X 2 RECENT COLORED ID PICTURES 1 PC. LONG BROWN CRAFT ENVELOPE TRANSCRIPT OF RECORDS (FOR TRANSFEREES) HONORABLE DISMISSAL (FOR TRANSFEREES`],
+        admissionRequirements: [`FIRST YEAR COLLEGE AND TRANSFEREES 
+Form 138 (Report Card) 
+Birth Certificate (PSA) 
+Certificate of Good Moral 
+3pcs 2x2 Recent Colored ID Picture 
+Baptismal Certificate (For Catholics only) 
+Transcript of Records (For Transferees) 
+Honorable Dismissal (For Transferees) .`],
         admissionInfo: `Applicants must take and pass the entrance examination before enrollment.`,
         tuition: `Down Payment (500.00 – 1,000.00)`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Email: ndrvmcc_2016@gmail.com Messenger: Notre Dame - RVM College of Cotabato, Inc. Contact no.: 0909 162 5729 Also listed in the other file: Office Location #74 Sinsuat Avenue, Cotabato City, Philippines. Landline Number Null`,
-        website: `https://www.facebook.com/share/1BdhLn77hE/ Also listed in the other file: https://ndrvmcc.wixsite.com/marians?utm Facebook Page: https://www.facebook.com/ndrvmcotabato/`,
-        source: `https://www.facebook.com/share/1BdhLn77hE/ Also listed in the other file: Official Website`,
+        website: `https://www.facebook.com/share/1BdhLn77hE/ 
+Also listed in the other file: https://ndrvmcc.wixsite.com/marians?utm 
+Facebook Page: https://www.facebook.com/ndrvmcotabato/`,
+        source: `https://www.facebook.com/share/1BdhLn77hE/ `,
         dateVerified: `August 30, 2026`
     },
     {
@@ -842,10 +1037,15 @@ Also listed in the other file:
         type: `Private`,
         programsText: `Bachelor of Secondary Education Major in English Bachelor of Secondary Education Major in Mathematics Bachelor of Secondary Education Major in Filipino Bachelor of Elementary Education Major in General Education Also listed in the other file: Cotabato City Campus Bachelor of Secondary Education (BSEd): English, Islamic Studies, Filipino. Bachelor of Elementary Education (BEEd): General Education. Sarmiento, Parang, Maguindanao Campus Bachelor of Secondary Education (BSEd): English, Mathematics, Filipino Bachelor of Elementary Education (BEEd): General Education, Early Childhood Education`,
         matchedCourses: [`BS Education`],
-        admissionRequirements: [`BS Nursing BS Medical Technology BS Midwifery BS Radiologic Technology Bachelor of Elementary Education Bachelor of Secondary Education`],
+        admissionRequirements: [`No Available Information Found`],
         admissionInfo: `Applicants may contact the Undergraduate School at the Cotabato City campus.`,
         tuition: `Enrollment Fee: 500.00`,
-        scholarshipsAvailable: `10% tuition fee discounted to all incoming 1st year college students Can apply for CHED – UNIFAST Subsidy Program Free Full Tuition Fee for Graduates “With Highest Honor” 20% Tuition Fee Discounted for SKCI Dean’s Lister per semester Also listed in the other file: Educational Service Contracting (ESC), Senior High School Voucher Program, Tertiary Education Subsidy (TES), and Honor Student scholarships are listed by the school.`,
+        scholarshipsAvailable: `10% tuition fee discounted to all incoming 1st year college students Can apply for CHED – UNIFAST Subsidy Program 
+Free Full Tuition Fee for Graduates “With Highest Honor” 
+20% Tuition Fee Discounted for SKCI Dean’s Lister per semester 
+Educational Service Contracting (ESC), 
+Senior High School Voucher Program, 
+Tertiary Education Subsidy (TES), and Honor Student scholarships are listed by the school.`,
         contact: `contact no.: 0976 007 7597 Email: skcsarmiento@gmail.com Messenger: Shariff Kabunsuan College, Inc. - Sarmiento Also listed in the other file: Office Location Bagua-I, Cotabato City 9600, Philippines Landline Number +63 (064) 552-2472 Email: skcicot@gmail.com`,
         website: `https://www.facebook.com/share/1D952rbswk/ Also listed in the other file: https://skci.edu.ph/pages/home.php Facebook Page: https://www.facebook.com/SKCICOT/`,
         source: `https://www.facebook.com/share/1D952rbswk/ Also listed in the other file: Official SKCI Website`,
@@ -876,8 +1076,11 @@ Also listed in the other file:
         type: `Private`,
         programsText: `BS in Criminology BS in Social Work BS in Business Administration BS in Public Administration Bachelor of Elementary Education Bachelor of Secondary Education Also listed in the other file: Bachelor of Science in Social Work Bachelor of Science in Criminology Bachelor in Public Administration Bachelor of Elementary Education Bachelor of Secondary Education – majors in English and Science; Bachelor of Science in Business Administration – major in Financial Management.`,
         matchedCourses: [`BS Education`, `BS Business Administration`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Form 138/Report Card Good Moral PSA Birth Certificate (2 pcs) 2x2 ID Picture With Name Tag Long Brown Kraft Envelope Also listed in the other file: For Incoming 1st Year: Form 138/Report Card`, `Good Moral Certificate`, `NSO/PSA Birth Certificate`, `Two 2×2 ID pictures with name tag`, `Long Kraft Envelope.`],
-        admissionInfo: `Enroll Now. An entrance examination is required. The promotional post also advertises a 50% tuition-fee discount for new students from 1st year to 4th year. An early-bird 10% discount on the miscellaneous fee is also offered.`,
+        admissionRequirements: [`For Incoming 1st Year: 
+Form 138/Report Card`, `Good Moral Certificate`, `NSO/PSA Birth Certificate`, `Two 2×2 ID pictures with name tag`, `Long Kraft Envelope.`],
+        admissionInfo: `Enroll Now. An entrance examination is required. 
+The promotional post also advertises a 50% tuition-fee discount for new students from 1st year to 4th year. 
+An early-bird 10% discount on the miscellaneous fee is also offered.`,
         tuition: `Tuition Fee: 198.00 Downpayment: 1,000.00 Also listed in the other file: ₱198.00 per unit, reduced from ₱397.00 per unit, representing a 50% tuition-fee discount for new students.`,
         scholarshipsAvailable: `Academic Honors Scholarship. The post also advertises 1 free set of uniform cloth for the first 50 students.`,
         contact: `Email: sbccicollegedept@gmail.com Messenger: St. Benedict College of Cotabato Inc. - Higher Education Department Contact no.: 0930 123 4567 Also listed in the other file: Office Location #74 Sinsuat Avenue, Cotabato City, Philippines. Landline Number (064) 421-1969 local 101 Globe: 0954-342-1492`,
@@ -898,8 +1101,8 @@ Also listed in the other file:
         tuition: `Varies by program and semester; no single tuition amount.`,
         scholarshipsAvailable: `https://financialaid.sti.edu/ Also listed in the other file: STI offers scholarships/discount programs subject to its current qualifications.`,
         contact: `Contact no.: (064) 421 3628 Email: sti.college@cotabato.sti.edu.ph Messenger: STI College Cotabato Also listed in the other file: Location A. Dorotheo Street, Cotabato City, 9600 Maguindanao; Landline Number (064) 421-3628; 0917-722-2627 Email: . mailto:sti.college@cotabato.sti.edu.ph Facebook Page: https://www.facebook.com/cotabato.sti.edu`,
-        website: `STI College Cotabato | Cotabato City STI College Cotabato, Cotabato City. 48,250 followers · 2,482 talking about this · 1,335 were here. STI College Cotabato is a member of the STI Education Services Group.`,
-        source: `STI College Cotabato | Cotabato City STI College Cotabato, Cotabato City. 48,250 followers · 2,482 talking about this · 1,335 were here. STI College Cotabato is a member of the STI Education Services Group. Also listed in the other file: https://www.sti.edu/campuses-details.asp?campus_id=Q09U&utm`,
+        website: `STI College Cotabato.`,
+        source: `STI College Cotabato | Cotabato City STI College Cotabato, Cotabato City.`,
         dateVerified: `August 30, 2026`
     },
     {
@@ -915,8 +1118,8 @@ Also listed in the other file:
         tuition: `ENROLLMENT FEE: 500 PESOS ONLY`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Email: sunshinecollegesinc@gmail.com Messenger: Sunshine Colleges, Inc.`,
-        website: `Sunshine Colleges, Inc. | Cotabato City Sunshine Colleges, Inc. , Cotabato City. 9,269 followers · 48 talking about this · 156 were here. A SCHOOL WITH A HEART ❤️`,
-        source: `Sunshine Colleges, Inc. | Cotabato City Sunshine Colleges, Inc. , Cotabato City. 9,269 followers · 48 talking about this · 156 were here. A SCHOOL WITH A HEART ❤️`,
+        website: `Sunshine Colleges, Inc.`,
+        source: `Sunshine Colleges, Inc.`,
         dateVerified: `Not stated in source file`
     },
     {
@@ -927,7 +1130,20 @@ Also listed in the other file:
         type: `Private`,
         programsText: `Bachelor of Elementary Education Bachelor of Secondary Education Bachelor of Science in Nursing Bachelor of Science in Criminology Bachelor of Science in Social Work Bachelor of Science in Midwifery`,
         matchedCourses: [`BS Nursing`, `BS Education`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`Requirements for Freshmen: 1. Form 138/ Card 2. Birth Certificate 3. 2x2 ID picture with name tagged (2pcs) 4. Good Moral 5. Brown Envelope 6. Transparent Envelope Requirements for Transferees: 1. Official Transcript of Records (Authenticated OTR) 2. Birth Certificate 3. 2x2 ID picture with name tagged (2pcs.) 4. Honorable Dismissal 5. Brown Envelope 6. Transparent Envelope`],
+        admissionRequirements: [`Requirements for Freshmen: 
+	1. Form 138/ Card 
+	2. Birth Certificate 
+	3. 2x2 ID picture with name tagged (2pcs) 
+	4. Good Moral 
+	5. Brown Envelope 
+	6. Transparent Envelope 
+Requirements for Transferees: 
+	1. Official Transcript of Records (Authenticated OTR) 
+	2. Birth Certificate 
+	3. 2x2 ID picture with name tagged (2pcs.) 
+	4. Honorable Dismissal 
+	5. Brown Envelope
+	6. Transparent Envelope`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -949,9 +1165,9 @@ Also listed in the other file:
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Email: gani_abpi_hs@yahoo.com Messenger: Gani L. Abpi College Inc. formerly Central Maguindanao Institute`,
-        website: `Gani L. Abpi College Inc. formerly Central Maguindanao Institute Gani L. Abpi College Inc. formerly Central Maguindanao Institute. 14,324 followers · 122 talking about this. Gani L. Abpi College Incorporated aims to maintain a high standard of education and to...`,
-        source: `Gani L. Abpi College Inc. formerly Central Maguindanao Institute Gani L. Abpi College Inc. formerly Central Maguindanao Institute. 14,324 followers · 122 talking about this. Gani L. Abpi College Incorporated aims to maintain a high standard of education and to...`,
-        dateVerified: `Not stated in source file`
+        website: `Gani L. Abpi College Inc. No Independent Available Website.`,
+        source: `Gani L. Abpi College Inc. Facebook`,
+        dateVerified: `August 2026`
     },
     {
         id: 46,
@@ -959,9 +1175,26 @@ Also listed in the other file:
         city: `Datu Salibo Maguindanao del Sur`,
         province: `Maguindanao del Sur`,
         type: `Private`,
-        programsText: `BACHELOR OF ELEMENTARY EDUCATION (BEED) BACHELOR OF SECONDARY EDUCATION ( BSED-English) BACHELOR OF SCIENCE IN CRIMINOLOGY( BSCrim) BACHELOR OF SCIENCE IN SOCIAL WORK (BSSW) BACHELOR OF SCIENCE IN AGRICULTURE( BSAgri)`,
+        programsText: `BACHELOR OF ELEMENTARY EDUCATION (BEED) 
+BACHELOR OF SECONDARY EDUCATION ( BSED-English) 
+BACHELOR OF SCIENCE IN CRIMINOLOGY( BSCrim) 
+BACHELOR OF SCIENCE IN SOCIAL WORK (BSSW) 
+BACHELOR OF SCIENCE IN AGRICULTURE( BSAgri)`,
         matchedCourses: [`BS Education`, `BS Criminology`, `BS Agriculture`, `BS Social Work`],
-        admissionRequirements: [`Requirements needed: Please bring the following`, `2COPIES PSA BIRTH CERTIFICATE ( xerox copy) 2 COPIES MARRIAGE CERTIFICATE if married( xerox copy) 2COPIES DIPLOMA (xerox copy) 2 COPIES FORM 138/137 (xerox copy) 2 COPIES GOOD MORAL CHARACTER(xerox copy) TRANSFEREES 2 COPIES HONORABLE DISMISSAL (xerox copy) 2 COPIES PSA BIRTH CERTIFICATE ( xerox copy) 2 COPIES MARRIAGE CERTIFICATE if married( xerox copy) 2 COPIES DIPLOMA (xerox copy) 2 COPIES FORM 138/137 (xerox copy) 2 COPIES GOOD MORAL CHARACTER(xerox copy) 2 PCS 2x2 ID PICTURE 2 PCS LONG BROWN ENVELOPE`],
+        admissionRequirements: [`2COPIES PSA BIRTH CERTIFICATE ( xerox copy) 
+2 COPIES MARRIAGE CERTIFICATE if married( xerox copy) 
+2COPIES DIPLOMA (xerox copy) 
+2 COPIES FORM 138/137 (xerox copy)
+2 COPIES GOOD MORAL CHARACTER(xerox copy) 
+TRANSFEREES 
+2 COPIES HONORABLE DISMISSAL (xerox copy) 
+2 COPIES PSA BIRTH CERTIFICATE ( xerox copy) 
+2 COPIES MARRIAGE CERTIFICATE if married( xerox copy) 
+2 COPIES DIPLOMA (xerox copy) 
+2 COPIES FORM 138/137 (xerox copy) 
+2 COPIES GOOD MORAL CHARACTER(xerox copy) 
+2 PCS 2x2 ID PICTURE 
+2 PCS LONG BROWN ENVELOPE`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -978,7 +1211,18 @@ Also listed in the other file:
         type: `Private`,
         programsText: `Bachelor of Elementary Education Bachelor of Secondary Education Major in English , Mathematics, Social Studies Bachelor of Science in Agriculture Major in Agronomy`,
         matchedCourses: [`BS Education`, `BS Agriculture`],
-        admissionRequirements: [`Requirements: Freshmen: 1.Original & Photo Copy of form 137(Card from Senior High School) 2.Original Photo Copy of Good moral Character 3. 2 Copies of PSA Birth Certificate 4. 2 Pcs of 2x2 Picture with name tag 5. 2 Pcs. Of Long Brown Envelope Transferee: 1.Photo Copy of TOR 2.Honorable Dismissal 3.2 Copies of PSA 4.2 pcs of Long Brown Envelope 4.2 copies of 2x2 Picture with name tag`],
+        admissionRequirements: [`FRESHMEN: 
+1.Original & Photo Copy of form 137(Card from Senior High School) 
+2.Original Photo Copy of Good moral Character
+3. 2 Copies of PSA Birth Certificate 
+4. 2 Pcs of 2x2 Picture with name tag 
+5. 2 Pcs. Of Long Brown Envelope 
+Transferee: 
+1.Photo Copy of TOR 
+2.Honorable Dismissal
+3.2 Copies of PSA 
+4.2 pcs of Long Brown Envelope 
+4.2 copies of 2x2 Picture with name tag`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -1012,7 +1256,14 @@ Also listed in the other file:
         type: `Private`,
         programsText: `Bachelor of Elementary Education (BEEd) Bachelor of Science in Social Work (BSSW) Bachelor of Science in Agriculture`,
         matchedCourses: [`BS Education`, `BS Agriculture`, `BS Social Work`],
-        admissionRequirements: [`ADMISSION REQUIREMENTS (For Freshmen & Transferees) 1 Original Copy of PSA Birth Certificate Certificate of Good Moral Character 2 pcs. Long Thick Envelope Form 138A (Report Card) – Original (Freshmen) 2 pcs. 2x2 ID Picture (White Background) Certificate of Transfer Credentials (Transferees) Official Transcript of Records (Transferees) Photocopy of PSA Marriage Certificate (Married Female only)`],
+        admissionRequirements: [`1 Original Copy of PSA Birth Certificate 
+Certificate of Good Moral Character 
+2 pcs. Long Thick Envelope 
+Form 138A (Report Card) – Original (Freshmen) 
+2 pcs. 2x2 ID Picture (White Background) 
+Certificate of Transfer Credentials (Transferees) 
+Official Transcript of Records (Transferees) 
+Photocopy of PSA Marriage Certificate (Married Female only)`],
         admissionInfo: `Not publicly available`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
@@ -1027,9 +1278,26 @@ Also listed in the other file:
         city: `Manarapan, Kapalawan SGA BARMM,`,
         province: `Special Geographic Area`,
         type: `Private`,
-        programsText: `BACHELOR OF SECONDARY EDUCATION Major in Mathematics Major in English Major in MAPEH Major in T.L.E BACHELOR OF ELEMENTARY EDUCATION (BEEd) Major in General Education BACHELOR OF SCIENCE IN CRIMINOLOGY (BSCrim) BACHELOR OF SCIENCE IN SOCIAL WORK (BSSW) BACHELOR OF ARTS in POLITICAL SCIENCE`,
+        programsText: `BACHELOR OF SECONDARY EDUCATION ( Major in Mathematics ,English, MAPEH, T.L.E 
+BACHELOR OF ELEMENTARY EDUCATION (BEEd) 
+BACHELOR OF SCIENCE IN CRIMINOLOGY (BSCrim) 
+BACHELOR OF SCIENCE IN SOCIAL WORK (BSSW) 
+BACHELOR OF ARTS in POLITICAL SCIENCE`,
         matchedCourses: [`BS Education`, `BS Criminology`, `BS Social Work`],
-        admissionRequirements: [`COLLEGE FRESHMEN'S 2pcs 2x2 ID picture with name tag, white background Original Copy of Birth Certificate from PSA 2pcs long brown envelope Senior High School card and Form 138 with LRN number. Original Certificate of Good Moral Character Brgy. Certificate COLLEGE TRANSFEREES 2pcs 2x2 ID picture with name tag, white background. Original Birth Certificate from PSA 2pcs brown envelope Original certificate of good moral Character Transcript of records (TOR) for evaluation purposes. Certificate of Transfer/Honorable Dismissal Brgy. Certificate`],
+        admissionRequirements: [`COLLEGE FRESHMEN'S 
+2pcs 2x2 ID picture with name tag white background 
+Original Copy of Birth Certificate from PSA 2pcs long brown envelope 
+Senior High School card and Form 138 with LRN number. 
+Original Certificate of Good Moral Character 
+Brgy. Certificate 
+COLLEGE TRANSFEREES 
+2pcs 2x2 ID picture with name tag white background. 
+Original Birth Certificate from PSA 
+2pcs brown envelope 
+Original certificate of good moral 
+Character Transcript of records (TOR) for evaluation purposes. 
+Certificate of Transfer/Honorable Dismissal 
+Brgy. Certificate`],
         admissionInfo: `N0t Publicly Verified`,
         tuition: `Price not publicly stated.`,
         scholarshipsAvailable: `Not Publicly Verified`,
@@ -1061,7 +1329,15 @@ Also listed in the other file:
         city: `Capitol Site, Jolo`,
         province: `Sulu`,
         type: `Public`,
-        programsText: `Offers undergraduate and graduate programs across multiple colleges, including: College of Agriculture, College of Fisheries, College of Education, College of Arts and Sciences, College of Public Administration, College of Business Administration and Accountancy, College of Computer Studies, and College of Nursing. Also operates Junior High School and Senior High School departments. Note: The full, current list of specific bachelor's degree titles per college was not accessible from the official site at the time of this search — recommend confirming directly with the MSU-Sulu Registrar/Admissions Office.`,
+        programsText: `Offers undergraduate and graduate programs across multiple colleges, including: 
+	College of Agriculture
+College of Fisheries
+College of Education
+College of Arts and Sciences
+College of Public Administration 
+College of Business Administration and Accountancy 
+College of Computer Studies and College of Nursing. 
+Also operates Junior High School and Senior High School departments.`,
         matchedCourses: [`BS Nursing`, `BS Accountancy`, `BS Business Administration`, `BS Agriculture`],
         admissionRequirements: [`Freshmen: Original Form 138 (SHS Report Card)`, `Certificate of Good Moral Character`, `PSA Birth Certificate (authenticated) + 1 photocopy`, `two 2x2 ID pictures (white background)`, `one long white folder with fastener. Transferee: Original Honorable Dismissal`, `authenticated Transcript of Records`, `PSA Birth Certificate + photocopy`, `two 2x2 ID pictures`, `long white folder. Returnee: Last grade attended`, `Certificate of Registration (COR). Second Degree: Authenticated Transcript of Records`, `PSA Birth Certificate + photocopy`, `long white folder`],
         admissionInfo: `Requirements are submitted to the Office of Admissions upon confirmation of acceptance from the degree-granting College/Unit; specific application period not published on the pages retrieved.`,
@@ -1095,15 +1371,15 @@ Also listed in the other file:
         city: `Jolo`,
         province: `Sulu`,
         type: `Private`,
-        programsText: `BSN (Bachelor of Science in Nursing) 
-BSCE (Bachelor of Science in Civil Engineering) 
-BSGE (Bachelor of Science in Geodetic Engineering) 
-BSIT (Bachelor of Science in Information Technology) 
-BSSW (Bachelor of Science in Social Work) 
-BSCrim (Bachelor of Science in Criminology) 
-BSHM (Bachelor of Science in Hospitality Management (formerly BSHRM))
-BEED – Bachelor in Elementary Education 
-Technical/Engineering Diplomas – Diploma courses in Civil, Electrical, and Mechanical Engineering Technology, as well as Information Technology.`,
+        programsText: `Bachelor of Science in Nursing
+Bachelor of Science in Civil Engineering
+Bachelor of Science in Geodetic Engineering
+Bachelor of Science in Information Technology
+Bachelor of Science in Social Work 
+Bachelor of Science in Criminology 
+Bachelor of Science in Hospitality Management
+Bachelor in Elementary Education 
+Technical/Engineering Diplomas –Diploma courses in Civil, Electrical, and Mechanical Engineering Technology, as well as Information Technology.`,
         matchedCourses: [`BS Nursing`, `BS Information Technology`, `BS Education`, `BS Civil Engineering`, `BS Criminology`, `BS Social Work`],
         admissionRequirements: [`For incoming college freshmen and transferees, the required documents generally include: 
 	Entrance Exam Result: Must be claimed from the Department of Student Affairs (DSA) Office. 
@@ -1132,11 +1408,27 @@ Promotions: The institution frequently provides a 30% tuition discount for non-s
         city: `Boheh Sallang, Sanga-Sanga, Bongao, Philippines, 7500`,
         province: `Tawi-Tawi`,
         type: `Private`,
-        programsText: `Links msutcto.edu.ph`,
+        programsText: `Visit msutcto.edu.ph link for full list of programs`,
         matchedCourses: [],
-        admissionRequirements: [`For Freshmen: Senior High School Report Card (Form 138-A) MSU SASE Report of Rating (with passing score) PSA/NSO-Authenticated Birth Certificate (original) Certificate of Good Moral Character 2x2 ID photos (white background, For Transferees: Honorable Dismissal Transcript of Records (TOR) PSA/NSO-Authenticated Birth Certificate (original) MSU SASE Report of Rating (with passing score) Certificate of Good Moral Character`],
+        admissionRequirements: [`For Freshmen: 
+Senior High School Report Card (Form 138-A) 
+MSU SASE Report of Rating (with passing score) 
+PSA/NSO-Authenticated Birth Certificate (original) 
+Certificate of Good Moral Character 
+2x2 ID photos white background, 
+For Transferees: 
+Honorable Dismissal 
+Transcript of Records (TOR) 
+PSA/NSO-Authenticated Birth Certificate (original) 
+MSU SASE Report of Rating (with passing score) 
+Certificate of Good Moral Character`],
         admissionInfo: `Not publicly available`,
-        tuition: `Tuition Fees Php 50.00 / unit Per unit charge for all academic courses Athletic Fees Php 50.00 Annual fee for sports facilities maintenance CDF Php 20.00 Cultural Development Fund for campus events SPEAR Php 50.00 Student Program for Enhancement and Advancement ROTC / CWTS Php 100.00 Mandatory for all undergraduate students Speech Laboratory Php 150.00 For communication courses and language labs`,
+        tuition: `Tuition Fees Php 50.00 / unit Per unit charge for all academic courses Athletic Fees 
+Php 50.00 Annual fee for sports facilities maintenance CDF 
+Php 20.00 Cultural Development Fund for campus events SPEAR 
+Php 50.00 Student Program for Enhancement and Advancement ROTC / CWTS 
+Php 100.00 Mandatory for all undergraduate students Speech Laboratory 
+Php 150.00 For communication courses and language labs`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Messenger: MSU Tawi-Tawi College of Technology and Oceanography https://www.facebook.com/msutcto/ then find LINK`,
         website: `https://www.facebook.com/msutcto/`,
@@ -1149,8 +1441,13 @@ Promotions: The institution frequently provides a 30% tuition discount for non-s
         city: `Nalil, Bongao Poblacion, Philippines, 7500`,
         province: `Tawi-Tawi`,
         type: `Private`,
-        programsText: `For requirements and other concerns, please visit the Registrar's Office.`,
-        matchedCourses: [],
+        programsText: `Bachelor of Science in Agricultural Bio-System and Engineering
+Bachelor of Science in Economics
+Bachelor of Science in Soils Science
+Bachelor of Science in Criminology
+Bachelor of Science in Hotel, Restaurant, and Resort Management
+Bachelor of Science in Information Technology and Information System`,
+        matchedCourses: [`Information technology`, `Criminology`],
         admissionRequirements: [`For requirements and other concerns, please visit the Registrar's Office.`],
         admissionInfo: `Not publicly available/ Contact the school directly`,
         tuition: `Not publicly available`,
@@ -1166,10 +1463,27 @@ Promotions: The institution frequently provides a 30% tuition discount for non-s
         city: `Ilmoh street, Bongao, Philippines, 7500`,
         province: `Tawi-Tawi`,
         type: `Private`,
-        programsText: `BACHELOR OF SCIENCE IN CIVIL ENGINEERING BACHELOR OF SCIENCE IN ELECTRICAL ENGINEERING BACHELOR OF SCIENCE IN GEODETIC ENGINEERING BACHELOR IN ELEMENTARY EDUCATION BACHELOR IN SECONDARY EDUCATION N BACHELOR OF SCIENCE IN ACCOUNTING BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION BACHELOR OF SCIENCE IN CRIMINOLOGY BACHELOR OF SCIENCE IN HOTEL & RESTAURANT MNGT BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY BACHELOR OF SCIENCE IN NURSING BACHELOR OF SCIENCE IN SOCIAL WORK BACHELOR OF SCIENCE IN ENTREPRENEUR BACHELOR OF SCIENCE IN TVET / INDUSTRIAL EDUCATION`,
+        programsText: `BACHELOR OF SCIENCE IN CIVIL ENGINEERING 
+BACHELOR OF SCIENCE IN ELECTRICAL ENGINEERING 
+BACHELOR OF SCIENCE IN GEODETIC ENGINEERING 
+BACHELOR IN ELEMENTARY EDUCATION 
+BACHELOR IN SECONDARY EDUCATION N 
+BACHELOR OF SCIENCE IN ACCOUNTING 
+BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION 
+BACHELOR OF SCIENCE IN CRIMINOLOGY 
+BACHELOR OF SCIENCE IN HOTEL & RESTAURANT MNGT 
+BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY 
+BACHELOR OF SCIENCE IN NURSING 
+BACHELOR OF SCIENCE IN SOCIAL WORK 
+BACHELOR OF SCIENCE IN ENTREPRENEUR 
+BACHELOR OF SCIENCE IN TVET / INDUSTRIAL EDUCATION`,
         matchedCourses: [`BS Nursing`, `BS Information Technology`, `BS Education`, `BS Civil Engineering`, `BS Business Administration`, `BS Criminology`, `BS Social Work`],
         admissionRequirements: [`Not publicly available`],
-        admissionInfo: `UNIFAST - Tertiary Education Subsidy Senfor High School Voucher Program ESC for Junior High School TWSP for Technical / TVET / Diploma Program FREE Tuition fees for HONOR GRADUATES and other Indigent but DESERVING STUDENTS 30% Discount for Non-Scholars IMOH Foundation Scholarship grants for Elementary`,
+        admissionInfo: `UNIFAST - Tertiary Education Subsidy Senfor High School Voucher Program 
+ESC for Junior High School TWSP for Technical / TVET / Diploma Program 
+FREE Tuition fees for HONOR GRADUATES and 
+other Indigent but DESERVING STUDENTS 30% Discount 
+for Non-Scholars IMOH Foundation Scholarship grants for Elementary`,
         tuition: `Not publicly available`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `Email: online.mit2020@gmail.com Messenger: Mahardika Institute of Technology, Inc.`,
@@ -1202,14 +1516,25 @@ Promotions: The institution frequently provides a 30% tuition discount for non-s
         type: `Private`,
         programsText: `Bachelor of Elementary Education (BEED) Bachelor of Science in Information Technology (BSIT) Bachelor of Science in Nursing (BSN)`,
         matchedCourses: [`BS Nursing`, `BS Information Technology`, `BS Education`],
-        admissionRequirements: [`FRESHMEN: Report Card (Form 138) Certificate of Good Moral Character PSA Birth Certificate (Photocopy) Two (2) copies of a 2x2 picture (with nametag) One (1) long white folder TRANSFEREES: Transfer Credentials (Honorable Dismissal) Transcript of Records (TOR) PSA Birth Certificate (Photocopy) Two (2) copies of a 2x2 picture (with nametag) - One (1) long white folder`],
+        admissionRequirements: [`FRESHMEN: 
+Report Card (Form 138) 
+Certificate of Good Moral Character 
+PSA Birth Certificate (Photocopy) 
+Two (2) copies of a 2x2 picture (with nametag) 
+One (1) long white folder 
+TRANSFEREES: 
+Transfer Credentials (Honorable Dismissal) 
+Transcript of Records (TOR) 
+PSA Birth Certificate (Photocopy) 
+Two (2) copies of a 2x2 picture (with nametag) - 
+One (1) long white folder`],
         admissionInfo: `Not publicly available`,
         tuition: `Free tuition for BEED and BSIT ₱10,000 per semester for BSN`,
         scholarshipsAvailable: `Not publicly available`,
         contact: `contact us @ 0965-922-9840`,
-        website: `Philippine Last Frontier College, Inc. Tandubas Campus Philippine Last Frontier College, Inc. Tandubas Campus . 432 likes · 53 talking about this. "PLFC: THE HOME OF THE DREAMS AND THE DREAMERS"`,
-        source: `Philippine Last Frontier College, Inc. Tandubas Campus Philippine Last Frontier College, Inc. Tandubas Campus . 432 likes · 53 talking about this. "PLFC: THE HOME OF THE DREAMS AND THE DREAMERS"`,
-        dateVerified: `Not stated in source file`
+        website: `Philippine Last Frontier College, Inc.`,
+        source: `Philippine Last Frontier College, Inc.`,
+        dateVerified: `August 2026`
     }
 ];
 const scholarships = [
